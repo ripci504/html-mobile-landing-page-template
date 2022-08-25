@@ -1,0 +1,47 @@
+body {
+    overflow-x: none;
+}
+
+.navbar-inner {
+    background: #f8f9faf2 !important;
+}
+.yellow {
+    color: orange;
+    word-spacing: 5px;
+}
+.review-text {
+    margin-top: 32px;
+    margin-bottom: 32px;
+    color: #2c3340;
+    font-size: 24px;
+    line-height: 36px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.leading-text-rectangle {
+    padding: 10px;
+
+    border-radius: 10px;
+    border-color: #0d6efd;;
+    border-style: solid;
+    border-width: 1px;
+  }
+
+  .get-started-headline {
+    font-weight: normal;
+  }
+  .black-href {
+    color: black;
+  }
+
+  .iphone-x {
+    position: relative;
+    margin: 40px auto;
+    width: 200px;
+    height: 430px;
+    border-radius: 15px;
+    background-image: url("images/unnamed.png");
+    background-size: cover;
+    box-shadow: 0px 0px 0px 5px #1f1f1f, 0px 0px 5px 8px #191919, 0px 0px 0px 7px #111;
+  }
