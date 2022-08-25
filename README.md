@@ -21,6 +21,6 @@ This landing page was created for a personal project of mine, called Notificator
 This is a blank template that provides the best practices of filling out the template.
 </p>
 
-Visit <a href="https://ripci504.github.io/html-mobile-landing-page-template/example">here</a> to see a filled out template, or <a href="https://ripci504.github.io/html-mobile-landing-page-template/index">here</a> to see an empty version.
+Visit <a href="https://ripci504.github.io/html-mobile-landing-page-template/src/example">here</a> to see a filled out template, or <a href="https://ripci504.github.io/html-mobile-landing-page-template/src/index">here</a> to see an empty version.
 
 <i>This has a MIT license and is free to use.</i>
